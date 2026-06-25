@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="assets/images/logo.png" alt="Leaf Disease Detection Logo" width="200"/>
   <h1>🌿 Leaf Disease Detection System</h1>
   <p><strong>CodeAlpha Data Science Internship Project</strong></p>
   <p>
