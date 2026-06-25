@@ -132,7 +132,7 @@ Traditional disease detection relies on expert visual inspection, which is:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/CodeAlpha_LeafDiseaseDetection.git
+git clone https://github.com/mirzaahsan143/CodeAlpha_Internship_Part3.git
 cd CodeAlpha_LeafDiseaseDetection
 ```
 
